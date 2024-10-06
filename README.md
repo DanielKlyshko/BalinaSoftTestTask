@@ -1,11 +1,13 @@
-BalinaSoftTestTask
+# BalinaSoft Test Task
 
-Используемые технологии
-UIKit: Для построения пользовательского интерфейса.
-URLSession: Для выполнения сетевых запросов.
-UIImagePickerController: Для доступа к камере и получения снимка.
-Codable: Для парсинга JSON ответов от сервера.
+## Используемые технологии
 
-Контакты
-ФИО разработчика: Даниель Клышко
-Электронная почта: danielklyshko29@yandex.by
+- **UIKit** — для построения пользовательского интерфейса.
+- **URLSession** — для выполнения сетевых запросов (GET и POST).
+- **UIImagePickerController** — для открытия камеры и получения снимка.
+- **Codable** — для парсинга JSON-ответов с сервера.
+
+## Контакты
+
+- **ФИО разработчика:** Даниель Клышко
+- **Email:** [danielklyshko29@yandex.by](mailto:danielklyshko29@yandex.by)
